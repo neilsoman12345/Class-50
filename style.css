@@ -1,0 +1,19 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.header
+{
+background-color: red;
+display:flex;
+justify-content: space-between;
+}
+.intro
+{
+    background-color: aqua;
+    display:flex;
+    justify-content: space-between;
+}
